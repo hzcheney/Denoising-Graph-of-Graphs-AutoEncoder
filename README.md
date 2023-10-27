@@ -42,7 +42,7 @@ If you find this work is helpful for your research, please consider citing our p
   doi={10.1109/TKDE.2023.3298490}}
 
 ```
-Some part of this project are build upon [GoGNN](https://github.com/Hanchen-Wang/GoGNN). If you find it helpful for your research, please consider citing this paer:
+Some part of this project are build upon [GoGNN](https://github.com/Hanchen-Wang/GoGNN). If you find it helpful for your research, please consider citing this paper:
 ```
 @article{wang2020gognn,
   title={Gognn: Graph of graphs neural network for predicting structured entity interactions},
